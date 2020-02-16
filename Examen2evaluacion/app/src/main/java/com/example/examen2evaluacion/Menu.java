@@ -25,4 +25,8 @@ public class Menu extends AppCompatActivity {
         Intent intent = new Intent(this, TodosContactos.class);
         startActivity(intent);
     }
+    public void botones(View vista){
+        Intent intent = new Intent(this, BotonesDinamicos.class);
+        startActivity(intent);
+    }
 }

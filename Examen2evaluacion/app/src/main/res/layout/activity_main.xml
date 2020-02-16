@@ -57,7 +57,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:ems="10"
-                    android:hint="Curso"
+                    android:hint="Correo"
                     android:inputType="textPersonName" />
             </LinearLayout>
 
@@ -87,7 +87,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:onClick="guardardatos"
-                    android:text="Ver lista" />
+                    android:text="Guardar en lista" />
 
                 <Button
                     android:id="@+id/cambiarmostrar"
