@@ -23,7 +23,7 @@ public class DataBase2 extends SQLiteOpenHelper {
         db.execSQL("drop table if exists Notas");
         db.execSQL("create table Notas(codigo integer(200)   primary key AUTOINCREMENT,Notas varchar(140) not null)");
     }
-    //metodo listar registro de la db
+
     public ArrayList<String> guardar()
     {
         ArrayList<String> array_list = new ArrayList<String>();
