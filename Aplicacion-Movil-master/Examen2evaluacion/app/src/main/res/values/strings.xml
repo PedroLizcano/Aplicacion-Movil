@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="volver_al_menu">volver al menu</string>
+    <string name="ver_lista">ver lista</string>
+    <string name="guardar_en_lista">Guardar en lista</string>
+    <string name="correo">Correo</string>
+    <string name="ver_contacto">Ver contacto</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="ver_contacto2">Ver Contacto</string>
+    <string name="ingresar_contacto">Ingresar contacto</string>
+    <string name="verlista">ver lista</string>
+    <string name="creacion_de_botones_dinamicos">Creacion de botones dinamicos</string>
+    <string name="Inicio">Inicio</string>
+    <string name="creacion">Creacion</string>
+    <string name="nombre2">Pedro Solano</string>
+    <string name="contactos">Contactos</string>
+    <string name="notas">Notas</string>
+    <string name="menu">MENU</string>
+</resources>
