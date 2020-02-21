@@ -23,7 +23,7 @@ public class DataBase extends SQLiteOpenHelper {
         db.execSQL("drop table if exists Contactos");
         db.execSQL("create table Contactos(telefono varchar (45) primary key,Nombre varchar(45) not null, Apellidos varchar(300) not null,Correo varchar(20)  not null)");
     }
-    //metodo listar registro de la db
+
     public ArrayList<String> guardar()
     {
         ArrayList<String> array_list = new ArrayList<String>();
